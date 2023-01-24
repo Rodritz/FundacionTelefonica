@@ -1,0 +1,17 @@
+th {
+    background-color: orange;
+    border: solid 1px;
+    margin: 0px;
+}
+td {
+    border: solid 1px;
+    margin: 0px;
+}
+#tr1 {
+    background-color: dodgerblue;
+}
+#tr2 {
+    background-color: aquamarine;
+}
+
+
